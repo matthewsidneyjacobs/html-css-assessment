@@ -82,9 +82,9 @@ body{
 }
 .center-text1 {
   text-align: center;
-  font-size:60px;
+  font-size:80px;
   width:85%;
-  font-weight:bolder;
+  font-weight:900;
 }
 .center-text2 {
   font-size: 14px;
@@ -103,8 +103,11 @@ body{
   display: flex;
   justify-content: center;
 }
-.fa-stack {
-  height:100%;
-  width:50%;
-  color:white;
+
+.fa-stack2, .fa-lg2{
+
+  /*width:50%;*/
+  /*position: absolute;
+  bottom: 0;*/
+  /*color:white;*/
 }

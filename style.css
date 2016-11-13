@@ -25,7 +25,7 @@ body{
 
 .topnav {
   width:100%;
-  height:12%;
+  height:20%;
   display: flex;
 }
 .nav-bar-left {
@@ -52,7 +52,7 @@ body{
 
 .center {
   width:100%;
-  height:78%;
+  height:65%;
   color:white;
   text-align: justify;
   display:flex;
@@ -86,14 +86,14 @@ body{
 
 .footer {
   width: 100%;
-  height: 10%;
+  height: 15%;
 }
 
 .footer-image {
   width:100%;
   height:100%;
   display: flex;
-  justify-content: center;
+  justify-content:center;
   align-items: center;
 }
 
